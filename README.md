@@ -1,5 +1,9 @@
 # README - Learning Journey step 7
 
+## 7.1 - Complete FCC Tribute Page in CodePen
+
+Completed
+
 ## 7.2 - Your Tribute Page
 
 You will now be using git and vscode to:
@@ -10,15 +14,13 @@ You will now be using git and vscode to:
 
   * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
 
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
+
+Completed
 
 ## 7.3 - Deploying your site using github Pages
 
 Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 Make sure that the deployed branch is `main` in settings.
+
+Completed
